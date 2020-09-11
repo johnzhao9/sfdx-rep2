@@ -1,0 +1,1 @@
+sfdx force:source:convert --outputdir ./out --manifest ./package2.xml
