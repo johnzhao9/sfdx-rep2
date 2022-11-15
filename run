@@ -1,2 +1,2 @@
-sfdx force:org:create -d 1 -f dummy.json -a ACM &
+sfdx force:org:create -d 1 -f dummy.json -a CM &
 sfdx force:org:create -d 1 -f dummy.json -a ACM-Antunit
